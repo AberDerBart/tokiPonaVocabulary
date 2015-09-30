@@ -1,0 +1,1836 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE kvtml PUBLIC "kvtml2.dtd" "http://edu.kde.org/kvtml/kvtml2.dtd">
+<kvtml version="2.0">
+  <information>
+    <generator>Parley 1.0.0</generator>
+    <title>Toki_pona</title>
+    <author>Sabine Emmy Eller, Jim Regan, Barbara Catena, Maddalena De Angelis</author>
+    <contact>s.eller@voxhumanitatis.org</contact>
+    <license>Dual license GPL and CC-BY-SA 3.0</license>
+    <comment>This file is part of the [b]Vox Humanitatis Educational[/b] contens packages and was created for Parley. Further information on our work for Parley can be found on our website: [url]http://www.voxhumanitatis.org/content/parley[/url].  – please contact us (e-mail addresses are on the page) for suggestions and critics and of course also if you would have fun to co-operate in the creation of further packages or improving the existing ones.</comment>
+    <date>2015-09-30</date>
+    <category>Languages</category>
+  </information>
+  <identifiers>
+    <identifier id="0">
+      <name>Toki Pona</name>
+      <locale>de-DE</locale>
+    </identifier>
+    <identifier id="1">
+      <name>English</name>
+      <locale>English</locale>
+    </identifier>
+    <identifier id="2">
+      <name>Sign</name>
+      <locale>Sign</locale>
+    </identifier>
+  </identifiers>
+  <entries>
+    <entry id="0">
+      <translation id="0">
+        <text>ijo</text>
+      </translation>
+      <translation id="1">
+        <text>this, something, being</text>
+      </translation>
+      <translation id="2">
+        <text>thumb-fist in front of chest, palm facing down, thumb pointing left</text>
+      </translation>
+    </entry>
+    <entry id="1">
+      <translation id="0">
+        <text>jan</text>
+      </translation>
+      <translation id="1">
+        <text>person, human</text>
+      </translation>
+      <translation id="2">
+        <text>2 hand at left shoulder, palm facing back</text>
+      </translation>
+    </entry>
+    <entry id="2">
+      <translation id="0">
+        <text>kili</text>
+      </translation>
+      <translation id="1">
+        <text>fruit, vegetable</text>
+      </translation>
+      <translation id="2">
+        <text>thumb-fist at left side of chin, palm facing left</text>
+      </translation>
+    </entry>
+    <entry id="3">
+      <translation id="0">
+        <text>lipu</text>
+      </translation>
+      <translation id="1">
+        <text>document</text>
+      </translation>
+      <translation id="2">
+        <text>flat hand on top of left fist, palm faacing up</text>
+      </translation>
+    </entry>
+    <entry id="4">
+      <translation id="0">
+        <text>meli</text>
+      </translation>
+      <translation id="1">
+        <text>woman, female</text>
+      </translation>
+      <translation id="2">
+        <text>2 hand on stomach, palm facing back</text>
+      </translation>
+    </entry>
+    <entry id="5">
+      <translation id="0">
+        <text>ni</text>
+      </translation>
+      <translation id="1">
+        <text>this, that</text>
+      </translation>
+      <translation id="2">
+        <text>L hand at side of chin, palm facing back</text>
+      </translation>
+    </entry>
+    <entry id="6">
+      <translation id="0">
+        <text>soweli</text>
+      </translation>
+      <translation id="1">
+        <text>animal, land mammal</text>
+      </translation>
+      <translation id="2">
+        <text>flat hand at left elbow, palm facing down</text>
+      </translation>
+    </entry>
+    <entry id="7">
+      <translation id="0">
+        <text>telo</text>
+      </translation>
+      <translation id="1">
+        <text>water, liquid</text>
+      </translation>
+      <translation id="2">
+        <text>wiggling hand in front of chest, palm facing down (both hands)</text>
+      </translation>
+    </entry>
+    <entry id="8">
+      <translation id="0">
+        <text>tomo</text>
+      </translation>
+      <translation id="1">
+        <text>house, building, room</text>
+      </translation>
+      <translation id="2">
+        <text>bent hand in front of chest, palm facing left (both hands)</text>
+      </translation>
+    </entry>
+    <entry id="9">
+      <translation id="0">
+        <text>lili</text>
+      </translation>
+      <translation id="1">
+        <text>little</text>
+      </translation>
+      <translation id="2">
+        <text>2 hand at side of chin, palm facing forward</text>
+      </translation>
+    </entry>
+    <entry id="10">
+      <translation id="0">
+        <text>pona</text>
+      </translation>
+      <translation id="1">
+        <text>good, simple, friendly</text>
+      </translation>
+      <translation id="2">
+        <text>thumb-fist in front of chest, palm facing left, thumb pointing up</text>
+      </translation>
+    </entry>
+    <entry id="11">
+      <translation id="0">
+        <text>suli</text>
+      </translation>
+      <translation id="1">
+        <text>big</text>
+      </translation>
+      <translation id="2">
+        <text>2 hand at side of forehead, palm facing forward</text>
+      </translation>
+    </entry>
+    <entry id="12">
+      <translation id="0">
+        <text>mi</text>
+      </translation>
+      <translation id="1">
+        <text>I, me, we</text>
+      </translation>
+      <translation id="2">
+        <text>thumb-fist in front of chest, palm facing down, thumb pointing back</text>
+      </translation>
+    </entry>
+    <entry id="13">
+      <translation id="0">
+        <text>mije</text>
+      </translation>
+      <translation id="1">
+        <text>man, male</text>
+      </translation>
+      <translation id="2">
+        <text>2 hand on top of left fist, palm facing left</text>
+      </translation>
+    </entry>
+    <entry id="14">
+      <translation id="0">
+        <text>sina</text>
+      </translation>
+      <translation id="1">
+        <text>you</text>
+      </translation>
+      <translation id="2">
+        <text>1 hand in front of chest, index finger pointing forward</text>
+      </translation>
+    </entry>
+    <entry id="15">
+      <translation id="0">
+        <text>kulupu</text>
+      </translation>
+      <translation id="1">
+        <text>community</text>
+      </translation>
+      <translation id="2">
+        <text>2 hand at left shoulder, palm facing down</text>
+      </translation>
+    </entry>
+    <entry id="16">
+      <translation id="0">
+        <text>sin</text>
+      </translation>
+      <translation id="1">
+        <text>new, another, fresh</text>
+      </translation>
+      <translation id="2">
+        <text>wiggling hand on top of left fist, palm facing left</text>
+      </translation>
+    </entry>
+    <entry id="17">
+      <translation id="0">
+        <text>wawa</text>
+      </translation>
+      <translation id="1">
+        <text>strong, confident, dependable</text>
+      </translation>
+      <translation id="2">
+        <text>thumb-fist on stomach, palm facing back</text>
+      </translation>
+    </entry>
+    <entry id="18">
+      <translation id="0">
+        <text>jo</text>
+      </translation>
+      <translation id="1">
+        <text>to have, contain, carry</text>
+      </translation>
+      <translation id="2">
+        <text>bent hand on top of left fist, palm facing up</text>
+      </translation>
+    </entry>
+    <entry id="19">
+      <translation id="0">
+        <text>kute</text>
+      </translation>
+      <translation id="1">
+        <text>to listen to, obey</text>
+      </translation>
+      <translation id="2">
+        <text>thumb-fist at side of forehead, palm facing forward</text>
+      </translation>
+    </entry>
+    <entry id="20">
+      <translation id="0">
+        <text>moku</text>
+      </translation>
+      <translation id="1">
+        <text>to eat, drink</text>
+      </translation>
+      <translation id="2">
+        <text>0 hand at side of chin, palm facing back</text>
+      </translation>
+    </entry>
+    <entry id="21">
+      <translation id="0">
+        <text>pali</text>
+      </translation>
+      <translation id="1">
+        <text>to make, do, work on</text>
+      </translation>
+      <translation id="2">
+        <text>thumb-fist on top of left fist, palm facing left</text>
+      </translation>
+    </entry>
+    <entry id="22">
+      <translation id="0">
+        <text>sona</text>
+      </translation>
+      <translation id="1">
+        <text>to know</text>
+      </translation>
+      <translation id="2">
+        <text>bent hand at side of forehead, palm facing left</text>
+      </translation>
+    </entry>
+    <entry id="23">
+      <translation id="0">
+        <text>toki</text>
+      </translation>
+      <translation id="1">
+        <text>to talk, speak, communicate</text>
+      </translation>
+      <translation id="2">
+        <text>bent hand at side of chin, palm facing left</text>
+      </translation>
+    </entry>
+    <entry id="24">
+      <translation id="0">
+        <text>e</text>
+      </translation>
+      <translation id="1">
+        <text>particle before direct object</text>
+      </translation>
+      <translation id="2">
+        <text>flat hand in front of chest, palm facing down</text>
+      </translation>
+    </entry>
+    <entry id="25">
+      <translation id="0">
+        <text>kalama</text>
+      </translation>
+      <translation id="1">
+        <text>to produce a sound; recite, utter aloud</text>
+      </translation>
+      <translation id="2">
+        <text>wiggling hand at side of chin, palm facing left</text>
+      </translation>
+    </entry>
+    <entry id="26">
+      <translation id="0">
+        <text>ike</text>
+      </translation>
+      <translation id="1">
+        <text>bad, negative</text>
+      </translation>
+      <translation id="2">
+        <text>thumb-fist in front of chest, palm facing forward</text>
+      </translation>
+    </entry>
+    <entry id="27">
+      <translation id="0">
+        <text>mute</text>
+      </translation>
+      <translation id="1">
+        <text>twenty; many, very</text>
+      </translation>
+      <translation id="2">
+        <text>flat hand in front of chest, palm facing forward (both hands)</text>
+      </translation>
+    </entry>
+    <entry id="28">
+      <translation id="0">
+        <text>pu</text>
+      </translation>
+      <translation id="1">
+        <text>interacting with the official Toki Pona book</text>
+      </translation>
+      <translation id="2">
+        <text>wiggling hand on top of left fist, palm facing up</text>
+      </translation>
+    </entry>
+    <entry id="29">
+      <translation id="0">
+        <text>sewi</text>
+      </translation>
+      <translation id="1">
+        <text>sacred, divine; area above, highest part, sky</text>
+      </translation>
+      <translation id="2">
+        <text>1 hand in front of chest, palm facing left, index finger pointing up</text>
+      </translation>
+    </entry>
+    <entry id="30">
+      <translation id="0">
+        <text>wan</text>
+      </translation>
+      <translation id="1">
+        <text>one, united</text>
+      </translation>
+      <translation id="2">
+        <text>1 hand in front of chest, palm facing forward, index finger pointing up</text>
+      </translation>
+    </entry>
+    <entry id="31">
+      <translation id="0">
+        <text>mama</text>
+      </translation>
+      <translation id="1">
+        <text>parent</text>
+      </translation>
+      <translation id="2">
+        <text>2 hand on stomach, palm facing down</text>
+      </translation>
+    </entry>
+    <entry id="32">
+      <translation id="0">
+        <text>akesi</text>
+      </translation>
+      <translation id="1">
+        <text>non-cute animal; reptile, amphibian</text>
+      </translation>
+      <translation id="2">
+        <text>2 hand at left elbow, palm facing back</text>
+      </translation>
+    </entry>
+    <entry id="33">
+      <translation id="0">
+        <text>jaki</text>
+      </translation>
+      <translation id="1">
+        <text>disgusting, obscene, sickly, toxic, unclean, unsanitary</text>
+      </translation>
+      <translation id="2">
+        <text>thumb-fist at side of chin, palm facing forward</text>
+      </translation>
+    </entry>
+    <entry id="34">
+      <translation id="0">
+        <text>ilo</text>
+      </translation>
+      <translation id="1">
+        <text>tool</text>
+      </translation>
+      <translation id="2">
+        <text>thumb-fist on top of left fist, palm facing up</text>
+      </translation>
+    </entry>
+    <entry id="35">
+      <translation id="0">
+        <text>kala</text>
+      </translation>
+      <translation id="1">
+        <text>fish</text>
+      </translation>
+      <translation id="2">
+        <text>flat hand at left elbow, palm facing back</text>
+      </translation>
+    </entry>
+    <entry id="36">
+      <translation id="0">
+        <text>ona</text>
+      </translation>
+      <translation id="1">
+        <text>he, she, it, they</text>
+      </translation>
+      <translation id="2">
+        <text>1 hand in front of chest, index finger pointing left</text>
+      </translation>
+    </entry>
+    <entry id="37">
+      <translation id="0">
+        <text>anu</text>
+      </translation>
+      <translation id="1">
+        <text>or</text>
+      </translation>
+      <translation id="2">
+        <text>L hand in front of chest, palm facing down</text>
+      </translation>
+    </entry>
+    <entry id="38">
+      <translation id="0">
+        <text>seme</text>
+      </translation>
+      <translation id="1">
+        <text>what? which?</text>
+      </translation>
+      <translation id="2">
+        <text>flat hand in front of chest, palm facing up</text>
+      </translation>
+    </entry>
+    <entry id="39">
+      <translation id="0">
+        <text>pana</text>
+      </translation>
+      <translation id="1">
+        <text>to give</text>
+      </translation>
+      <translation id="2">
+        <text>wiggling hand in front of chest, palm facing up</text>
+      </translation>
+    </entry>
+    <entry id="40">
+      <translation id="0">
+        <text>tawa</text>
+      </translation>
+      <translation id="1">
+        <text>to, for, moving to; from the perspective of</text>
+      </translation>
+      <translation id="2">
+        <text>bent hand in front of chest, palm facing forward</text>
+      </translation>
+    </entry>
+    <entry id="41">
+      <translation id="0">
+        <text>lon</text>
+      </translation>
+      <translation id="1">
+        <text>at, with, in; to be present</text>
+      </translation>
+      <translation id="2">
+        <text>1 hand on top of left fist, palm facing down</text>
+      </translation>
+    </entry>
+    <entry id="42">
+      <translation id="0">
+        <text>kepken</text>
+      </translation>
+      <translation id="1">
+        <text>using</text>
+      </translation>
+      <translation id="2">
+        <text>L hand on top of left fist, palm facing left</text>
+      </translation>
+    </entry>
+    <entry id="43">
+      <translation id="0">
+        <text>tan</text>
+      </translation>
+      <translation id="1">
+        <text>from, because of</text>
+      </translation>
+      <translation id="2">
+        <text>bent hand at left elbow, palm facing back</text>
+      </translation>
+    </entry>
+    <entry id="44">
+      <translation id="0">
+        <text>ma</text>
+      </translation>
+      <translation id="1">
+        <text>land, country</text>
+      </translation>
+      <translation id="2">
+        <text>flat hand in front of chest, palm facing down (both hands)</text>
+      </translation>
+    </entry>
+    <entry id="45">
+      <translation id="0">
+        <text>nasin</text>
+      </translation>
+      <translation id="1">
+        <text>way, street</text>
+      </translation>
+      <translation id="2">
+        <text>flat hand in front of chest, palm facing left (both hands)</text>
+      </translation>
+    </entry>
+    <entry id="46">
+      <translation id="0">
+        <text>nena</text>
+      </translation>
+      <translation id="1">
+        <text>hill, bump</text>
+      </translation>
+      <translation id="2">
+        <text>bent hand on top of left fist, palm facing down</text>
+      </translation>
+    </entry>
+    <entry id="47">
+      <translation id="0">
+        <text>nimi</text>
+      </translation>
+      <translation id="1">
+        <text>name, word</text>
+      </translation>
+      <translation id="2">
+        <text>nothing under left slanted forearm</text>
+      </translation>
+    </entry>
+    <entry id="48">
+      <translation id="0">
+        <text>utala</text>
+      </translation>
+      <translation id="1">
+        <text>to fight</text>
+      </translation>
+      <translation id="2">
+        <text>thumb-fist at left shoulder, palm facing forward</text>
+      </translation>
+    </entry>
+    <entry id="49">
+      <translation id="0">
+        <text>a</text>
+      </translation>
+      <translation id="1">
+        <text>emotion word</text>
+      </translation>
+      <translation id="2">
+        <text>flat hand at side of chin, palm facing left</text>
+      </translation>
+    </entry>
+    <entry id="50">
+      <translation id="0">
+        <text>mu</text>
+      </translation>
+      <translation id="1">
+        <text>animal noise</text>
+      </translation>
+      <translation id="2">
+        <text>wiggling hand at side of chin, palm facing down</text>
+      </translation>
+    </entry>
+    <entry id="51">
+      <translation id="0">
+        <text>o</text>
+      </translation>
+      <translation id="1">
+        <text>call or command</text>
+      </translation>
+      <translation id="2">
+        <text>wiggling hand in front of chest, palm facing down</text>
+      </translation>
+    </entry>
+    <entry id="52">
+      <translation id="0">
+        <text>pilin</text>
+      </translation>
+      <translation id="1">
+        <text>feeling</text>
+      </translation>
+      <translation id="2">
+        <text>F hand on stomach, palm facing back</text>
+      </translation>
+    </entry>
+    <entry id="53">
+      <translation id="0">
+        <text>kasi</text>
+      </translation>
+      <translation id="1">
+        <text>plant</text>
+      </translation>
+      <translation id="2">
+        <text>F hand on top of left fist, palm facing down</text>
+      </translation>
+    </entry>
+    <entry id="54">
+      <translation id="0">
+        <text>sijelo</text>
+      </translation>
+      <translation id="1">
+        <text>body, physical state</text>
+      </translation>
+      <translation id="2">
+        <text>flat hand on stomach, palm facing back</text>
+      </translation>
+    </entry>
+    <entry id="55">
+      <translation id="0">
+        <text>suno</text>
+      </translation>
+      <translation id="1">
+        <text>sun, light</text>
+      </translation>
+      <translation id="2">
+        <text>bent hand at side of forehead, palm facing forward</text>
+      </translation>
+    </entry>
+    <entry id="56">
+      <translation id="0">
+        <text>tenpo</text>
+      </translation>
+      <translation id="1">
+        <text>time</text>
+      </translation>
+      <translation id="2">
+        <text>F hand on top of left fist, palm facing left</text>
+      </translation>
+    </entry>
+    <entry id="57">
+      <translation id="0">
+        <text>awen</text>
+      </translation>
+      <translation id="1">
+        <text>waiting, kept, staying</text>
+      </translation>
+      <translation id="2">
+        <text>L hand at left shoulder, palm facing back</text>
+      </translation>
+    </entry>
+    <entry id="58">
+      <translation id="0">
+        <text>pi</text>
+      </translation>
+      <translation id="1">
+        <text>of</text>
+      </translation>
+      <translation id="2">
+        <text>0 hand in front of chest, palm facing forward</text>
+      </translation>
+    </entry>
+    <entry id="59">
+      <translation id="0">
+        <text>tu</text>
+      </translation>
+      <translation id="1">
+        <text>two</text>
+      </translation>
+      <translation id="2">
+        <text>2 hand in front of chest, palm facing forward</text>
+      </translation>
+    </entry>
+    <entry id="60">
+      <translation id="0">
+        <text>nanpa</text>
+      </translation>
+      <translation id="1">
+        <text>#, ordinal number following</text>
+      </translation>
+      <translation id="2">
+        <text>2 hand in front of chest, palm facing back</text>
+      </translation>
+    </entry>
+    <entry id="61">
+      <translation id="0">
+        <text>luka</text>
+      </translation>
+      <translation id="1">
+        <text>five</text>
+      </translation>
+      <translation id="2">
+        <text>flat hand in front of chest, palm facing forward</text>
+      </translation>
+    </entry>
+    <entry id="62">
+      <translation id="0">
+        <text>ale</text>
+      </translation>
+      <translation id="1">
+        <text>hundred, countless, all</text>
+      </translation>
+      <translation id="2">
+        <text>wiggling hand in front of chest, palm facing forward (both hands)</text>
+      </translation>
+    </entry>
+    <entry id="63">
+      <translation id="0">
+        <text>ala</text>
+      </translation>
+      <translation id="1">
+        <text>not, no, zero, none</text>
+      </translation>
+      <translation id="2">
+        <text>flat hand at left shoulder, palm facing down</text>
+      </translation>
+    </entry>
+    <entry id="64">
+      <translation id="0">
+        <text>kama</text>
+      </translation>
+      <translation id="1">
+        <text>to become, manage to</text>
+      </translation>
+      <translation id="2">
+        <text>bent hand in front of chest, palm facing back</text>
+      </translation>
+    </entry>
+    <entry id="65">
+      <translation id="0">
+        <text>ken</text>
+      </translation>
+      <translation id="1">
+        <text>can, many</text>
+      </translation>
+      <translation id="2">
+        <text>thumb-fist at left shoulder, palm facing back</text>
+      </translation>
+    </entry>
+    <entry id="66">
+      <translation id="0">
+        <text>wile</text>
+      </translation>
+      <translation id="1">
+        <text>to want, need, must, should</text>
+      </translation>
+      <translation id="2">
+        <text>0 hand on stomach, palm facing up</text>
+      </translation>
+    </entry>
+    <entry id="67">
+      <translation id="0">
+        <text>lukin</text>
+      </translation>
+      <translation id="1">
+        <text>to seek to, try to; to see, look at</text>
+      </translation>
+      <translation id="2">
+        <text>2 hand in front of chest, palm facing down</text>
+      </translation>
+    </entry>
+    <entry id="68">
+      <translation id="0">
+        <text>kama</text>
+      </translation>
+      <translation id="1">
+        <text>arriving, coming</text>
+      </translation>
+      <translation id="2">
+        <text>bent hand in front of chest, palm facing back</text>
+      </translation>
+    </entry>
+    <entry id="69">
+      <translation id="0">
+        <text>jelo</text>
+      </translation>
+      <translation id="1">
+        <text>yellow</text>
+      </translation>
+      <translation id="2">
+        <text>F hand on stomach, palm facing down</text>
+      </translation>
+    </entry>
+    <entry id="70">
+      <translation id="0">
+        <text>laso</text>
+      </translation>
+      <translation id="1">
+        <text>blue, green</text>
+      </translation>
+      <translation id="2">
+        <text>F hand at left elbow, palm facing down</text>
+      </translation>
+    </entry>
+    <entry id="71">
+      <translation id="0">
+        <text>loje</text>
+      </translation>
+      <translation id="1">
+        <text>red</text>
+      </translation>
+      <translation id="2">
+        <text>F hand at side of chin, palm facing left</text>
+      </translation>
+    </entry>
+    <entry id="72">
+      <translation id="0">
+        <text>pimeja</text>
+      </translation>
+      <translation id="1">
+        <text>black, dark</text>
+      </translation>
+      <translation id="2">
+        <text>F hand at left shoulder, palm facing down</text>
+      </translation>
+    </entry>
+    <entry id="73">
+      <translation id="0">
+        <text>walo</text>
+      </translation>
+      <translation id="1">
+        <text>white, pale</text>
+      </translation>
+      <translation id="2">
+        <text>F hand at side of forehead, palm facing down</text>
+      </translation>
+    </entry>
+    <entry id="74">
+      <translation id="0">
+        <text>la</text>
+      </translation>
+      <translation id="1">
+        <text>particle that seperates context from main sentence</text>
+      </translation>
+      <translation id="2">
+        <text>bent hand in front of chest, palm facing left</text>
+      </translation>
+    </entry>
+    <entry id="75">
+      <translation id="0">
+        <text>insa</text>
+      </translation>
+      <translation id="1">
+        <text>inside, between, internal organ</text>
+      </translation>
+      <translation id="2">
+        <text>L hand on stomach, palm facing back</text>
+      </translation>
+    </entry>
+    <entry id="76">
+      <translation id="0">
+        <text>monsi</text>
+      </translation>
+      <translation id="1">
+        <text>area behind, back</text>
+      </translation>
+      <translation id="2">
+        <text>L hand at side of forehead, palm facing back</text>
+      </translation>
+    </entry>
+    <entry id="77">
+      <translation id="0">
+        <text>noka</text>
+      </translation>
+      <translation id="1">
+        <text>area below or under, lower part, leg</text>
+      </translation>
+      <translation id="2">
+        <text>flat hand in front of chest, palm facing back</text>
+      </translation>
+    </entry>
+    <entry id="78">
+      <translation id="0">
+        <text>poka</text>
+      </translation>
+      <translation id="1">
+        <text>side, area beside, hip</text>
+      </translation>
+      <translation id="2">
+        <text>L hand at left elbow, palm facing back</text>
+      </translation>
+    </entry>
+    <entry id="79">
+      <translation id="0">
+        <text>sinpin</text>
+      </translation>
+      <translation id="1">
+        <text>area in front, face, chest</text>
+      </translation>
+      <translation id="2">
+        <text>L hand in front of chest, palm facing back (both hands)</text>
+      </translation>
+    </entry>
+    <entry id="80">
+      <translation id="0">
+        <text>anpa</text>
+      </translation>
+      <translation id="1">
+        <text>lowy, bowing down</text>
+      </translation>
+      <translation id="2">
+        <text>bent hand in front of chest, palm facing down</text>
+      </translation>
+    </entry>
+    <entry id="81">
+      <translation id="0">
+        <text>ante</text>
+      </translation>
+      <translation id="1">
+        <text>different</text>
+      </translation>
+      <translation id="2">
+        <text>bent hand on top of left fist, palm facing left</text>
+      </translation>
+    </entry>
+    <entry id="82">
+      <translation id="0">
+        <text>en</text>
+      </translation>
+      <translation id="1">
+        <text>and</text>
+      </translation>
+      <translation id="2">
+        <text>L hand on top of left fist, palm facing down</text>
+      </translation>
+    </entry>
+    <entry id="83">
+      <translation id="0">
+        <text>lete</text>
+      </translation>
+      <translation id="1">
+        <text>cold</text>
+      </translation>
+      <translation id="2">
+        <text>wiggling hand at left elbow, palm facing down</text>
+      </translation>
+    </entry>
+    <entry id="84">
+      <translation id="0">
+        <text>lupa</text>
+      </translation>
+      <translation id="1">
+        <text>door, hole</text>
+      </translation>
+      <translation id="2">
+        <text>0 hand in front of chest, palm facing left</text>
+      </translation>
+    </entry>
+    <entry id="85">
+      <translation id="0">
+        <text>open</text>
+      </translation>
+      <translation id="1">
+        <text>open</text>
+      </translation>
+      <translation id="2">
+        <text>0 hand at left shoulder, palm facing down</text>
+      </translation>
+    </entry>
+    <entry id="86">
+      <translation id="0">
+        <text>sama</text>
+      </translation>
+      <translation id="1">
+        <text>same, similar; sibling</text>
+      </translation>
+      <translation id="2">
+        <text>thumb-fist in front of chest, palm facing down (both hands)</text>
+      </translation>
+    </entry>
+    <entry id="87">
+      <translation id="0">
+        <text>suwi</text>
+      </translation>
+      <translation id="1">
+        <text>sweet</text>
+      </translation>
+      <translation id="2">
+        <text>2 hand at side of chin, palm facing left</text>
+      </translation>
+    </entry>
+    <entry id="88">
+      <translation id="0">
+        <text>taso</text>
+      </translation>
+      <translation id="1">
+        <text>but; only</text>
+      </translation>
+      <translation id="2">
+        <text>L hand in front of chest, palm facing down (both hands)</text>
+      </translation>
+    </entry>
+    <entry id="89">
+      <translation id="0">
+        <text>esun</text>
+      </translation>
+      <translation id="1">
+        <text>market, shop, fair, bazaar, buisiness transaction</text>
+      </translation>
+      <translation id="2">
+        <text>bent hand in front of chest, palm facing up (both hands)</text>
+      </translation>
+    </entry>
+    <entry id="90">
+      <translation id="0">
+        <text>alasa</text>
+      </translation>
+      <translation id="1">
+        <text>hunt, forage</text>
+      </translation>
+      <translation id="2">
+        <text>1 hand at left shoulder, palm facing back</text>
+      </translation>
+    </entry>
+    <entry id="91">
+      <translation id="0">
+        <text>lawa</text>
+      </translation>
+      <translation id="1">
+        <text>head</text>
+      </translation>
+      <translation id="2">
+        <text>flat hand at side of forehead, palm facing forward</text>
+      </translation>
+    </entry>
+    <entry id="92">
+      <translation id="0">
+        <text>len</text>
+      </translation>
+      <translation id="1">
+        <text>clothing</text>
+      </translation>
+      <translation id="2">
+        <text>bent hand at left shoulder, palm facing back</text>
+      </translation>
+    </entry>
+    <entry id="93">
+      <translation id="0">
+        <text>linja</text>
+      </translation>
+      <translation id="1">
+        <text>long flexible thing</text>
+      </translation>
+      <translation id="2">
+        <text>1 hand at side of forehead, palm facing left</text>
+      </translation>
+    </entry>
+    <entry id="94">
+      <translation id="0">
+        <text>pakala</text>
+      </translation>
+      <translation id="1">
+        <text>broken</text>
+      </translation>
+      <translation id="2">
+        <text>thumb-fist on top of left fist, palm facing forward</text>
+      </translation>
+    </entry>
+    <entry id="95">
+      <translation id="0">
+        <text>palisa</text>
+      </translation>
+      <translation id="1">
+        <text>long hard thing</text>
+      </translation>
+      <translation id="2">
+        <text>0 hand on top of left fist, palm facing left</text>
+      </translation>
+    </entry>
+    <entry id="96">
+      <translation id="0">
+        <text>pipi</text>
+      </translation>
+      <translation id="1">
+        <text>insect</text>
+      </translation>
+      <translation id="2">
+        <text>1 hand at left elbow, palm facing back</text>
+      </translation>
+    </entry>
+    <entry id="97">
+      <translation id="0">
+        <text>waso</text>
+      </translation>
+      <translation id="1">
+        <text>bird</text>
+      </translation>
+      <translation id="2">
+        <text>0 hand at side of chin, palm facing forward</text>
+      </translation>
+    </entry>
+    <entry id="98">
+      <translation id="0">
+        <text>weka</text>
+      </translation>
+      <translation id="1">
+        <text>away</text>
+      </translation>
+      <translation id="2">
+        <text>0 hand at left elbow, palm facing down</text>
+      </translation>
+    </entry>
+    <entry id="99">
+      <translation id="0">
+        <text>lape</text>
+      </translation>
+      <translation id="1">
+        <text>to sleep</text>
+      </translation>
+      <translation id="2">
+        <text>flat hand at side of forehead, palm facing left</text>
+      </translation>
+    </entry>
+    <entry id="100">
+      <translation id="0">
+        <text>olin</text>
+      </translation>
+      <translation id="1">
+        <text>to love</text>
+      </translation>
+      <translation id="2">
+        <text>wiggling hand on stomach, palm facing back</text>
+      </translation>
+    </entry>
+    <entry id="101">
+      <translation id="0">
+        <text>pan</text>
+      </translation>
+      <translation id="1">
+        <text>cereal, grain</text>
+      </translation>
+      <translation id="2">
+        <text>F hand at side of chin, palm facing back</text>
+      </translation>
+    </entry>
+    <entry id="102">
+      <translation id="0">
+        <text>pini</text>
+      </translation>
+      <translation id="1">
+        <text>finished, past</text>
+      </translation>
+      <translation id="2">
+        <text>0 hand at left shoulder, palm facing up</text>
+      </translation>
+    </entry>
+    <entry id="103">
+      <translation id="0">
+        <text>seli</text>
+      </translation>
+      <translation id="1">
+        <text>fire</text>
+      </translation>
+      <translation id="2">
+        <text>wiggling hand at left shoulder, palm facing down</text>
+      </translation>
+    </entry>
+    <entry id="104">
+      <translation id="0">
+        <text>supa</text>
+      </translation>
+      <translation id="1">
+        <text>horizontal surface</text>
+      </translation>
+      <translation id="2">
+        <text>flat hand in front of chest, palm facing up (both hands)</text>
+      </translation>
+    </entry>
+    <entry id="105">
+      <translation id="0">
+        <text>uta</text>
+      </translation>
+      <translation id="1">
+        <text>mouth</text>
+      </translation>
+      <translation id="2">
+        <text>1 hand at side of chin, palm facing back</text>
+      </translation>
+    </entry>
+    <entry id="106">
+      <translation id="0">
+        <text>kiwen</text>
+      </translation>
+      <translation id="1">
+        <text>hard object, metal, rock, stone</text>
+      </translation>
+      <translation id="2">
+        <text>thumb-fist on top of left fist, palm facing down</text>
+      </translation>
+    </entry>
+    <entry id="107">
+      <translation id="0">
+        <text>ko</text>
+      </translation>
+      <translation id="1">
+        <text>clay, clinging form, dough, semi-solid, paste, powder</text>
+      </translation>
+      <translation id="2">
+        <text>bent hand on stomach, palm facing down</text>
+      </translation>
+    </entry>
+    <entry id="108">
+      <translation id="0">
+        <text>kon</text>
+      </translation>
+      <translation id="1">
+        <text>air, breath; essence, spirit; hidden reality, unseen agent</text>
+      </translation>
+      <translation id="2">
+        <text>wiggling hand in front of chest, palm facing left</text>
+      </translation>
+    </entry>
+    <entry id="109">
+      <translation id="0">
+        <text>kule</text>
+      </translation>
+      <translation id="1">
+        <text>colourful, pigmented, painted</text>
+      </translation>
+      <translation id="2">
+        <text>F hand in front of chest, palm facing left</text>
+      </translation>
+    </entry>
+    <entry id="110">
+      <translation id="0">
+        <text>li</text>
+      </translation>
+      <translation id="1">
+        <text>particle between any subject except mi alone or sina alone and its verb; also to introduce a new verb for the same subject</text>
+      </translation>
+      <translation id="2">
+        <text>flat hand in front of chest, palm facing left</text>
+      </translation>
+    </entry>
+    <entry id="111">
+      <translation id="0">
+        <text>mani</text>
+      </translation>
+      <translation id="1">
+        <text>money, cash, savings, wealth; large domesticated animal</text>
+      </translation>
+      <translation id="2">
+        <text>thumb-fist at left elbow, palm facing back</text>
+      </translation>
+    </entry>
+    <entry id="112">
+      <translation id="0">
+        <text>mun</text>
+      </translation>
+      <translation id="1">
+        <text>moon, night sky object, star</text>
+      </translation>
+      <translation id="2">
+        <text>0 hand at side of forehead, palm facing left</text>
+      </translation>
+    </entry>
+    <entry id="113">
+      <translation id="0">
+        <text>musi</text>
+      </translation>
+      <translation id="1">
+        <text>artistic, entertining, frivolous, playful, recreational</text>
+      </translation>
+      <translation id="2">
+        <text>wiggling hand at side of forehead, palm facing left</text>
+      </translation>
+    </entry>
+    <entry id="114">
+      <translation id="0">
+        <text>nasa</text>
+      </translation>
+      <translation id="1">
+        <text>unusual, strange; foolish, crazy; drunk, intoxicated</text>
+      </translation>
+      <translation id="2">
+        <text>thumb-fist at side of forehead, palm facing forward</text>
+      </translation>
+    </entry>
+    <entry id="115">
+      <translation id="0">
+        <text>poki</text>
+      </translation>
+      <translation id="1">
+        <text>container, bag, bowl, box, cup, cupboard, drawer, vessel</text>
+      </translation>
+      <translation id="2">
+        <text>0 hand in front of chest, palm facing down</text>
+      </translation>
+    </entry>
+    <entry id="116">
+      <translation id="0">
+        <text>selo</text>
+      </translation>
+      <translation id="1">
+        <text>outer form, outer layer; bark, peel, shell, skin; boundary</text>
+      </translation>
+      <translation id="2">
+        <text>F hand at left elbow, palm facing back</text>
+      </translation>
+    </entry>
+    <entry id="117">
+      <translation id="0">
+        <text>sike</text>
+      </translation>
+      <translation id="1">
+        <text>round or circular thing; ball, circle, cycle, sphere, wheel; of one year</text>
+      </translation>
+      <translation id="2">
+        <text>0 hand on top of left fist, palm facing down</text>
+      </translation>
+    </entry>
+    <entry id="118">
+      <translation id="0">
+        <text>sitelen</text>
+      </translation>
+      <translation id="1">
+        <text>image, picture, representation, symbol, mark, writing</text>
+      </translation>
+      <translation id="2">
+        <text>F hand in front of chest, palm facing left (both hands)</text>
+      </translation>
+    </entry>
+    <entry id="119">
+      <translation id="0">
+        <text>unpa</text>
+      </translation>
+      <translation id="1">
+        <text>to have sexual or marital relations with</text>
+      </translation>
+      <translation id="2">
+        <text>2 hand on top of left fist, palm facing down</text>
+      </translation>
+    </entry>
+    <entry id="120">
+      <translation id="0">
+        <text>a</text>
+      </translation>
+      <translation id="1"/>
+      <translation id="2">
+        <text>thumb-fist under left slanted forearm, palm facing back</text>
+      </translation>
+    </entry>
+    <entry id="121">
+      <translation id="0">
+        <text>e</text>
+      </translation>
+      <translation id="1"/>
+      <translation id="2">
+        <text>flat hand under left slanted forearm, palm facing back</text>
+      </translation>
+    </entry>
+    <entry id="122">
+      <translation id="0">
+        <text>i, j</text>
+      </translation>
+      <translation id="1"/>
+      <translation id="2">
+        <text>1 hand under left slanted forearm, palm facing down</text>
+      </translation>
+    </entry>
+    <entry id="123">
+      <translation id="0">
+        <text>k</text>
+      </translation>
+      <translation id="1"/>
+      <translation id="2">
+        <text>bent hand under left slanted forearm, palm facing down</text>
+      </translation>
+    </entry>
+    <entry id="124">
+      <translation id="0">
+        <text>l</text>
+      </translation>
+      <translation id="1"/>
+      <translation id="2">
+        <text>L hand under left slanted forearm, palm facing back</text>
+      </translation>
+    </entry>
+    <entry id="125">
+      <translation id="0">
+        <text>m</text>
+      </translation>
+      <translation id="1"/>
+      <translation id="2">
+        <text>wiggling hand under left slanted forearm, palm facing back</text>
+      </translation>
+    </entry>
+    <entry id="126">
+      <translation id="0">
+        <text>n</text>
+      </translation>
+      <translation id="1"/>
+      <translation id="2">
+        <text>wiggling hand under left slanted forearm, palm facing down</text>
+      </translation>
+    </entry>
+    <entry id="127">
+      <translation id="0">
+        <text>o</text>
+      </translation>
+      <translation id="1"/>
+      <translation id="2">
+        <text>0 hand under left slanted forearm, palm facing down</text>
+      </translation>
+    </entry>
+    <entry id="128">
+      <translation id="0">
+        <text>p</text>
+      </translation>
+      <translation id="1"/>
+      <translation id="2">
+        <text>F hand under left slanted forearm, palm facing down</text>
+      </translation>
+    </entry>
+    <entry id="129">
+      <translation id="0">
+        <text>s</text>
+      </translation>
+      <translation id="1"/>
+      <translation id="2">
+        <text>thumb-fist under left slanted forearm, palm facing down</text>
+      </translation>
+    </entry>
+    <entry id="130">
+      <translation id="0">
+        <text>t</text>
+      </translation>
+      <translation id="1"/>
+      <translation id="2">
+        <text>flat hand under left slanted forearm, palm facing down</text>
+      </translation>
+    </entry>
+    <entry id="131">
+      <translation id="0">
+        <text>u, w</text>
+      </translation>
+      <translation id="1"/>
+      <translation id="2">
+        <text>2 hand under left slanted forearm, palm facing back</text>
+      </translation>
+    </entry>
+    <entry id="132">
+      <translation id="0">
+        <text>toki</text>
+      </translation>
+      <translation id="1">
+        <text>hello!</text>
+      </translation>
+      <translation id="2"/>
+    </entry>
+    <entry id="133">
+      <translation id="0">
+        <text>pona</text>
+      </translation>
+      <translation id="1">
+        <text>great, thanks, OK</text>
+      </translation>
+      <translation id="2"/>
+    </entry>
+    <entry id="134">
+      <translation id="0">
+        <text>pona tawa sina</text>
+      </translation>
+      <translation id="1">
+        <text>peace be with you</text>
+      </translation>
+      <translation id="2"/>
+    </entry>
+    <entry id="135">
+      <translation id="0">
+        <text>mi tawa</text>
+      </translation>
+      <translation id="1">
+        <text>bye (said by person leaving)</text>
+      </translation>
+      <translation id="2"/>
+    </entry>
+    <entry id="136">
+      <translation id="0">
+        <text>tawa pona</text>
+      </translation>
+      <translation id="1">
+        <text>bye (said by person staying)</text>
+      </translation>
+      <translation id="2"/>
+    </entry>
+    <entry id="137">
+      <translation id="0">
+        <text>mi wile (e ni)</text>
+      </translation>
+      <translation id="1">
+        <text>please, I would like</text>
+      </translation>
+      <translation id="2"/>
+    </entry>
+    <entry id="138">
+      <translation id="0">
+        <text>ale li pona</text>
+      </translation>
+      <translation id="1">
+        <text>all is well, life is good, don't worry</text>
+      </translation>
+      <translation id="2"/>
+    </entry>
+    <entry id="139">
+      <translation id="0">
+        <text>ike a</text>
+      </translation>
+      <translation id="1">
+        <text>oh dear, oh my</text>
+      </translation>
+      <translation id="2"/>
+    </entry>
+    <entry id="140">
+      <translation id="0">
+        <text>lape pona</text>
+      </translation>
+      <translation id="1">
+        <text>good night</text>
+      </translation>
+      <translation id="2"/>
+    </entry>
+    <entry id="141">
+      <translation id="0">
+        <text>kama pona</text>
+      </translation>
+      <translation id="1">
+        <text>welcome</text>
+      </translation>
+      <translation id="2"/>
+    </entry>
+    <entry id="142">
+      <translation id="0">
+        <text>moku pona</text>
+      </translation>
+      <translation id="1">
+        <text>enjoy your meal</text>
+      </translation>
+      <translation id="2"/>
+    </entry>
+    <entry id="143">
+      <translation id="0">
+        <text>seme li sin?</text>
+      </translation>
+      <translation id="1">
+        <text>what's new?</text>
+      </translation>
+      <translation id="2"/>
+    </entry>
+    <entry id="144">
+      <translation id="0">
+        <text>sina pilin seme?</text>
+      </translation>
+      <translation id="1">
+        <text>how are you feeling?</text>
+      </translation>
+      <translation id="2"/>
+    </entry>
+    <entry id="145">
+      <translation id="0">
+        <text>a a a!</text>
+      </translation>
+      <translation id="1">
+        <text>ha ha ha!</text>
+      </translation>
+      <translation id="2"/>
+    </entry>
+    <entry id="146">
+      <translation id="0">
+        <text>mi kama sona e toki pona</text>
+      </translation>
+      <translation id="1">
+        <text>I'm learning Toki Pona</text>
+      </translation>
+      <translation id="2"/>
+    </entry>
+    <entry id="147">
+      <translation id="0">
+        <text>sina pona</text>
+      </translation>
+      <translation id="1">
+        <text>you're cool, I like you</text>
+      </translation>
+      <translation id="2"/>
+    </entry>
+    <entry id="148">
+      <translation id="0">
+        <text>mi olin e sina</text>
+      </translation>
+      <translation id="1">
+        <text>I love you</text>
+      </translation>
+      <translation id="2"/>
+    </entry>
+    <entry id="149">
+      <translation id="0">
+        <text>tomo telo li lon seme?</text>
+      </translation>
+      <translation id="1">
+        <text>where is the washroom?</text>
+      </translation>
+      <translation id="2"/>
+    </entry>
+  </entries>
+  <lessons>
+    <container>
+      <name>Lesson 2: Words and Sentences</name>
+      <inpractice>true</inpractice>
+      <entry id="0"/>
+      <entry id="1"/>
+      <entry id="2"/>
+      <entry id="3"/>
+      <entry id="4"/>
+      <entry id="5"/>
+      <entry id="6"/>
+    </container>
+    <container>
+      <name>Lesson 3: Nouns and Adjectives</name>
+      <inpractice>true</inpractice>
+      <entry id="7"/>
+      <entry id="8"/>
+      <entry id="9"/>
+      <entry id="10"/>
+      <entry id="11"/>
+    </container>
+    <container>
+      <name>Lesson 4: You and I</name>
+      <inpractice>true</inpractice>
+      <entry id="12"/>
+      <entry id="13"/>
+      <entry id="14"/>
+      <entry id="15"/>
+      <entry id="16"/>
+      <entry id="17"/>
+    </container>
+    <container>
+      <name>Lesson 5: Verbs</name>
+      <inpractice>true</inpractice>
+      <entry id="18"/>
+      <entry id="19"/>
+      <entry id="20"/>
+      <entry id="21"/>
+      <entry id="22"/>
+      <entry id="23"/>
+      <entry id="24"/>
+      <entry id="25"/>
+    </container>
+    <container>
+      <name>Lesson 6: More Adjectives</name>
+      <entry id="26"/>
+      <entry id="27"/>
+      <entry id="28"/>
+      <entry id="29"/>
+      <entry id="30"/>
+      <entry id="31"/>
+      <entry id="32"/>
+      <entry id="33"/>
+    </container>
+    <container>
+      <name>Lesson 7: Questions and Answers</name>
+      <entry id="34"/>
+      <entry id="35"/>
+      <entry id="36"/>
+      <entry id="37"/>
+      <entry id="38"/>
+    </container>
+    <container>
+      <name>Lesson 8: Prepositions</name>
+      <entry id="39"/>
+      <entry id="40"/>
+      <entry id="41"/>
+      <entry id="42"/>
+      <entry id="43"/>
+    </container>
+    <container>
+      <name>Lesson 9: Proper Names</name>
+      <entry id="44"/>
+      <entry id="45"/>
+      <entry id="46"/>
+      <entry id="47"/>
+      <entry id="48"/>
+    </container>
+    <container>
+      <name>Lesson 10: Greetings and Feelings</name>
+      <entry id="49"/>
+      <entry id="50"/>
+      <entry id="51"/>
+      <entry id="52"/>
+    </container>
+    <container>
+      <name>Lesson 11: pi</name>
+      <entry id="53"/>
+      <entry id="54"/>
+      <entry id="55"/>
+      <entry id="56"/>
+      <entry id="57"/>
+      <entry id="58"/>
+    </container>
+    <container>
+      <name>Lesson 12: Numbers</name>
+      <entry id="59"/>
+      <entry id="60"/>
+      <entry id="61"/>
+      <entry id="62"/>
+      <entry id="63"/>
+    </container>
+    <container>
+      <name>Lesson 13: Pre-Verbs</name>
+      <entry id="64"/>
+      <entry id="65"/>
+      <entry id="66"/>
+      <entry id="67"/>
+      <entry id="68"/>
+    </container>
+    <container>
+      <name>Lesson 14: Colours and la</name>
+      <entry id="69"/>
+      <entry id="70"/>
+      <entry id="71"/>
+      <entry id="72"/>
+      <entry id="73"/>
+      <entry id="74"/>
+    </container>
+    <container>
+      <name>Lesson 15: Spatial Nouns</name>
+      <entry id="75"/>
+      <entry id="76"/>
+      <entry id="77"/>
+      <entry id="78"/>
+      <entry id="79"/>
+    </container>
+    <container>
+      <name>Lesson 16: Particles and Perspective</name>
+      <entry id="80"/>
+      <entry id="81"/>
+      <entry id="82"/>
+      <entry id="83"/>
+      <entry id="84"/>
+      <entry id="85"/>
+      <entry id="86"/>
+      <entry id="87"/>
+      <entry id="88"/>
+      <entry id="89"/>
+    </container>
+    <container>
+      <name>Lesson 17: Hunting Adventure</name>
+      <entry id="90"/>
+      <entry id="91"/>
+      <entry id="92"/>
+      <entry id="93"/>
+      <entry id="94"/>
+      <entry id="95"/>
+      <entry id="96"/>
+      <entry id="97"/>
+      <entry id="98"/>
+    </container>
+    <container>
+      <name>Lesson 18: Cooking Adventure</name>
+      <entry id="99"/>
+      <entry id="100"/>
+      <entry id="101"/>
+      <entry id="102"/>
+      <entry id="103"/>
+      <entry id="104"/>
+      <entry id="105"/>
+    </container>
+    <container>
+      <name>Lesson with all the words I forgot</name>
+      <entry id="106"/>
+      <entry id="107"/>
+      <entry id="108"/>
+      <entry id="109"/>
+      <entry id="110"/>
+      <entry id="111"/>
+      <entry id="112"/>
+      <entry id="113"/>
+      <entry id="114"/>
+      <entry id="115"/>
+      <entry id="116"/>
+      <entry id="117"/>
+      <entry id="118"/>
+      <entry id="119"/>
+    </container>
+    <container>
+      <name>Signing the alphabet</name>
+      <entry id="120"/>
+      <entry id="121"/>
+      <entry id="122"/>
+      <entry id="123"/>
+      <entry id="124"/>
+      <entry id="125"/>
+      <entry id="126"/>
+      <entry id="127"/>
+      <entry id="128"/>
+      <entry id="129"/>
+      <entry id="130"/>
+      <entry id="131"/>
+    </container>
+    <container>
+      <name>Phrases</name>
+      <entry id="132"/>
+      <entry id="133"/>
+      <entry id="134"/>
+      <entry id="135"/>
+      <entry id="136"/>
+      <entry id="137"/>
+      <entry id="138"/>
+      <entry id="139"/>
+      <entry id="140"/>
+      <entry id="141"/>
+      <entry id="142"/>
+      <entry id="143"/>
+      <entry id="144"/>
+      <entry id="145"/>
+      <entry id="146"/>
+      <entry id="147"/>
+      <entry id="148"/>
+      <entry id="149"/>
+    </container>
+  </lessons>
+</kvtml>
