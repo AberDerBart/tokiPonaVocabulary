@@ -8,7 +8,7 @@
     <contact>s.eller@voxhumanitatis.org</contact>
     <license>Dual license GPL and CC-BY-SA 3.0</license>
     <comment>This file is part of the [b]Vox Humanitatis Educational[/b] contens packages and was created for Parley. Further information on our work for Parley can be found on our website: [url]http://www.voxhumanitatis.org/content/parley[/url].  – please contact us (e-mail addresses are on the page) for suggestions and critics and of course also if you would have fun to co-operate in the creation of further packages or improving the existing ones.</comment>
-    <date>2015-09-30</date>
+    <date>2015-10-01</date>
     <category>Languages</category>
   </information>
   <identifiers>
@@ -1239,12 +1239,15 @@
     <entry id="110">
       <translation id="0">
         <text>li</text>
+        <image>img/li.svg</image>
       </translation>
       <translation id="1">
         <text>particle between any subject except mi alone or sina alone and its verb; also to introduce a new verb for the same subject</text>
+        <image>li.svg</image>
       </translation>
       <translation id="2">
         <text>flat hand in front of chest, palm facing left</text>
+        <image>li.svg</image>
       </translation>
     </entry>
     <entry id="111">
