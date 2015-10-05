@@ -124,7 +124,11 @@
         <image>img/soweli.svg</image>
       </translation>
     </entry>
-    <entry id="7"/>
+    <entry id="7">
+      <translation id="0"/>
+      <translation id="1"/>
+      <translation id="2"/>
+    </entry>
     <entry id="8">
       <translation id="0">
         <text>telo</text>
@@ -534,7 +538,7 @@
     <entry id="37">
       <translation id="0">
         <text>ona</text>
-        <image>img/olin.svg</image>
+        <image>img/ona.svg</image>
       </translation>
       <translation id="1">
         <text>he, she, it, they</text>
@@ -542,7 +546,7 @@
       </translation>
       <translation id="2">
         <text>1 hand in front of chest, index finger pointing left</text>
-        <image>img/olin.svg</image>
+        <image>img/ona.svg</image>
       </translation>
     </entry>
     <entry id="38">
