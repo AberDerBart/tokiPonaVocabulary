@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="33.039818"
+   height="25.870636"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="weka.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.0984277"
+     inkscape:cx="-309.88301"
+     inkscape:cy="16.280178"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1596"
+     inkscape:window-height="861"
+     inkscape:window-x="0"
+     inkscape:window-y="18"
+     inkscape:window-maximized="0"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-566.96018,-967.28459)">
+    <path
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       inkscape:connector-curvature="0"
+       id="path3294"
+       d="m 572.09621,967.30469 -0.0197,0 c 0.0132,3e-5 0.0329,3e-5 0.0593,0 0.0263,-0.0134 0.0528,-0.0201 0.0791,-0.0201 0.21093,3e-5 0.38891,0.0803 0.53395,0.24092 0.15819,0.16064 0.2373,0.34133 0.23731,0.54208 -10e-6,0.25433 -0.0791,0.44171 -0.23731,0.56214 -1.3184,1.37863 -2.33356,2.92454 -3.04549,4.63773 -0.71193,1.69985 -1.10086,3.3796 -1.16678,5.03925 -0.0659,1.6597 0.0791,3.26584 0.43507,4.81842 0.36915,1.53923 0.92946,2.93122 1.68096,4.17596 0.71192,1.20462 1.55569,2.18169 2.53131,2.93122 0.9756,0.74953 1.97757,1.17784 3.00593,1.28491 2.38627,0.25431 4.60776,-1.17114 6.66447,-4.27635 0.11864,-0.24091 0.32957,-0.36137 0.63283,-0.36138 0.26366,10e-6 0.48119,0.12047 0.6526,0.36138 2.06985,3.13197 4.29134,4.57081 6.66447,4.3165 1.01513,-0.0803 1.99733,-0.48854 2.94661,-1.22469 0.96239,-0.73614 1.82593,-1.7199 2.59063,-2.95127 0.75146,-1.25814 1.30518,-2.65681 1.66118,-4.19604 0.35593,-1.5392 0.50095,-3.13196 0.43506,-4.77827 -0.0527,-1.65965 -0.4351,-3.33941 -1.147,-5.03925 -0.71196,-1.7132 -1.72712,-3.25241 -3.04548,-4.61766 -0.15824,-0.16058 -0.23734,-0.34796 -0.23731,-0.56215 -3e-5,-0.2275 0.0725,-0.41488 0.21754,-0.56214 0.14499,-0.1472 0.32956,-0.22082 0.55372,-0.22084 0.21091,2e-5 0.39549,0.0804 0.55373,0.24091 1.45019,1.51247 2.56423,3.20562 3.34212,5.07942 0.79099,1.86046 1.22606,3.70083 1.3052,5.5211 0.0791,1.82031 -0.0792,3.58706 -0.47462,5.30026 -0.39555,1.69984 -1.0152,3.25244 -1.85893,4.6578 -0.81744,1.39199 -1.81282,2.53636 -2.98615,3.43312 -1.17341,0.88338 -2.41929,1.37861 -3.73765,1.48569 -1.2525,0.13384 -2.52474,-0.15393 -3.81674,-0.86331 -1.27886,-0.72276 -2.48519,-1.84036 -3.61898,-3.35282 -1.13384,1.49907 -2.34017,2.5966 -3.61899,3.29259 -1.27885,0.696 -2.55769,0.97707 -3.83652,0.84322 -1.31841,-0.12045 -2.55768,-0.62237 -3.71787,-1.50575 -1.147,-0.88337 -2.14239,-2.03443 -2.98615,-3.4532 -0.83059,-1.39197 -1.45023,-2.93789 -1.85893,-4.63773 -0.39552,-1.7132 -0.56032,-3.47995 -0.49439,-5.30026 0.0791,-1.82027 0.50756,-3.66063 1.28543,-5.5211 0.79102,-1.86042 1.90506,-3.53347 3.34212,-5.01918 0.0922,-0.13382 0.25708,-0.2342 0.49439,-0.30115" />
+  </g>
+</svg>
