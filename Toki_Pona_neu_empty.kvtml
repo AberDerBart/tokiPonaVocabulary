@@ -8,7 +8,7 @@
     <contact>s.eller@voxhumanitatis.org</contact>
     <license>Dual license GPL and CC-BY-SA 3.0</license>
     <comment>This file is part of the [b]Vox Humanitatis Educational[/b] contens packages and was created for Parley. Further information on our work for Parley can be found on our website: [url]http://www.voxhumanitatis.org/content/parley[/url].  – please contact us (e-mail addresses are on the page) for suggestions and critics and of course also if you would have fun to co-operate in the creation of further packages or improving the existing ones.</comment>
-    <date>2015-10-01</date>
+    <date>2015-10-05</date>
     <category>Languages</category>
   </information>
   <identifiers>
@@ -29,34 +29,43 @@
     <entry id="0">
       <translation id="0">
         <text>ijo</text>
+        <image>img/ijo.svg</image>
       </translation>
       <translation id="1">
         <text>this, something, being</text>
+        <image>img/ijo.svg</image>
       </translation>
       <translation id="2">
         <text>thumb-fist in front of chest, palm facing down, thumb pointing left</text>
+        <image>img/ijo.svg</image>
       </translation>
     </entry>
     <entry id="1">
       <translation id="0">
         <text>jan</text>
+        <image>img/jan.svg</image>
       </translation>
       <translation id="1">
         <text>person, human</text>
+        <image>img/jan.svg</image>
       </translation>
       <translation id="2">
         <text>2 hand at left shoulder, palm facing back</text>
+        <image>img/jan.svg</image>
       </translation>
     </entry>
     <entry id="2">
       <translation id="0">
         <text>kili</text>
+        <image>img/kili.svg</image>
       </translation>
       <translation id="1">
         <text>fruit, vegetable</text>
+        <image>img/kili.svg</image>
       </translation>
       <translation id="2">
         <text>thumb-fist at left side of chin, palm facing left</text>
+        <image>img/kili.svg</image>
       </translation>
     </entry>
     <entry id="3">
@@ -194,12 +203,15 @@
     <entry id="15">
       <translation id="0">
         <text>kulupu</text>
+        <image>img/kulupu.svg</image>
       </translation>
       <translation id="1">
         <text>community</text>
+        <image>img/kulupu.svg</image>
       </translation>
       <translation id="2">
         <text>2 hand at left shoulder, palm facing down</text>
+        <image>img/kulupu.svg</image>
       </translation>
     </entry>
     <entry id="16">
@@ -227,23 +239,29 @@
     <entry id="18">
       <translation id="0">
         <text>jo</text>
+        <image>img/jo.svg</image>
       </translation>
       <translation id="1">
         <text>to have, contain, carry</text>
+        <image>img/jo.svg</image>
       </translation>
       <translation id="2">
         <text>bent hand on top of left fist, palm facing up</text>
+        <image>img/jo.svg</image>
       </translation>
     </entry>
     <entry id="19">
       <translation id="0">
         <text>kute</text>
+        <image>img/kute.svg</image>
       </translation>
       <translation id="1">
         <text>to listen to, obey</text>
+        <image>img/kute.svg</image>
       </translation>
       <translation id="2">
         <text>thumb-fist at side of forehead, palm facing forward</text>
+        <image>img/kute.svg</image>
       </translation>
     </entry>
     <entry id="20">
@@ -293,34 +311,43 @@
     <entry id="24">
       <translation id="0">
         <text>e</text>
+        <image>img/e.svg</image>
       </translation>
       <translation id="1">
         <text>particle before direct object</text>
+        <image>img/e.svg</image>
       </translation>
       <translation id="2">
         <text>flat hand in front of chest, palm facing down</text>
+        <image>img/e.svg</image>
       </translation>
     </entry>
     <entry id="25">
       <translation id="0">
         <text>kalama</text>
+        <image>img/kalama.svg</image>
       </translation>
       <translation id="1">
         <text>to produce a sound; recite, utter aloud</text>
+        <image>img/kalama.svg</image>
       </translation>
       <translation id="2">
         <text>wiggling hand at side of chin, palm facing left</text>
+        <image>img/kalama.svg</image>
       </translation>
     </entry>
     <entry id="26">
       <translation id="0">
         <text>ike</text>
+        <image>img/ike.svg</image>
       </translation>
       <translation id="1">
         <text>bad, negative</text>
+        <image>img/ike.svg</image>
       </translation>
       <translation id="2">
         <text>thumb-fist in front of chest, palm facing forward</text>
+        <image>img/ike.svg</image>
       </translation>
     </entry>
     <entry id="27">
@@ -381,45 +408,57 @@
     <entry id="32">
       <translation id="0">
         <text>akesi</text>
+        <image>img/akesi.svg</image>
       </translation>
       <translation id="1">
         <text>non-cute animal; reptile, amphibian</text>
+        <image>img/akesi.svg</image>
       </translation>
       <translation id="2">
         <text>2 hand at left elbow, palm facing back</text>
+        <image>img/akesi.svg</image>
       </translation>
     </entry>
     <entry id="33">
       <translation id="0">
         <text>jaki</text>
+        <image>img/jaki.svg</image>
       </translation>
       <translation id="1">
         <text>disgusting, obscene, sickly, toxic, unclean, unsanitary</text>
+        <image>img/jaki.svg</image>
       </translation>
       <translation id="2">
         <text>thumb-fist at side of chin, palm facing forward</text>
+        <image>img/jaki.svg</image>
       </translation>
     </entry>
     <entry id="34">
       <translation id="0">
         <text>ilo</text>
+        <image>img/ilo.svg</image>
       </translation>
       <translation id="1">
         <text>tool</text>
+        <image>img/ilo.svg</image>
       </translation>
       <translation id="2">
         <text>thumb-fist on top of left fist, palm facing up</text>
+        <image>img/ilo.svg</image>
       </translation>
     </entry>
     <entry id="35">
       <translation id="0">
         <text>kala</text>
+        <image>img/kala.svg</image>
       </translation>
       <translation id="1">
         <text>fish</text>
+        <image>img/kala.svg</image>
       </translation>
       <translation id="2">
         <text>flat hand at left elbow, palm facing back</text>
+        <image>img/kala.svg</image>
       </translation>
     </entry>
     <entry id="36">
@@ -436,12 +475,15 @@
     <entry id="37">
       <translation id="0">
         <text>anu</text>
+        <image>img/anu.svg</image>
       </translation>
       <translation id="1">
         <text>or</text>
+        <image>img/anu.svg</image>
       </translation>
       <translation id="2">
         <text>L hand in front of chest, palm facing down</text>
+        <image>img/anu.svg</image>
       </translation>
     </entry>
     <entry id="38">
@@ -490,13 +532,16 @@
     </entry>
     <entry id="42">
       <translation id="0">
-        <text>kepken</text>
+        <text>kepeken</text>
+        <image>img/kepeken.svg</image>
       </translation>
       <translation id="1">
         <text>using</text>
+        <image>img/kepeken.svg</image>
       </translation>
       <translation id="2">
         <text>L hand on top of left fist, palm facing left</text>
+        <image>img/kepeken.svg</image>
       </translation>
     </entry>
     <entry id="43">
@@ -568,12 +613,15 @@
     <entry id="49">
       <translation id="0">
         <text>a</text>
+        <image>img/a.svg</image>
       </translation>
       <translation id="1">
         <text>emotion word</text>
+        <image>img/a.svg</image>
       </translation>
       <translation id="2">
         <text>flat hand at side of chin, palm facing left</text>
+        <image>img/a.svg</image>
       </translation>
     </entry>
     <entry id="50">
@@ -612,12 +660,15 @@
     <entry id="53">
       <translation id="0">
         <text>kasi</text>
+        <image>img/kasi.svg</image>
       </translation>
       <translation id="1">
         <text>plant</text>
+        <image>img/kasi.svg</image>
       </translation>
       <translation id="2">
         <text>F hand on top of left fist, palm facing down</text>
+        <image>img/kasi.svg</image>
       </translation>
     </entry>
     <entry id="54">
@@ -656,12 +707,15 @@
     <entry id="57">
       <translation id="0">
         <text>awen</text>
+        <image>img/awen.svg</image>
       </translation>
       <translation id="1">
         <text>waiting, kept, staying</text>
+        <image>img/awen.svg</image>
       </translation>
       <translation id="2">
         <text>L hand at left shoulder, palm facing back</text>
+        <image>img/awen.svg</image>
       </translation>
     </entry>
     <entry id="58">
@@ -711,45 +765,57 @@
     <entry id="62">
       <translation id="0">
         <text>ale</text>
+        <image>img/ale.svg</image>
       </translation>
       <translation id="1">
         <text>hundred, countless, all</text>
+        <image>img/ale.svg</image>
       </translation>
       <translation id="2">
         <text>wiggling hand in front of chest, palm facing forward (both hands)</text>
+        <image>img/ale.svg</image>
       </translation>
     </entry>
     <entry id="63">
       <translation id="0">
         <text>ala</text>
+        <image>img/ala.svg</image>
       </translation>
       <translation id="1">
         <text>not, no, zero, none</text>
+        <image>img/ala.svg</image>
       </translation>
       <translation id="2">
         <text>flat hand at left shoulder, palm facing down</text>
+        <image>img/ala.svg</image>
       </translation>
     </entry>
     <entry id="64">
       <translation id="0">
         <text>kama</text>
+        <image>img/kama.svg</image>
       </translation>
       <translation id="1">
-        <text>to become, manage to</text>
+        <text>to become, manage to, arriving, coming</text>
+        <image>img/kama.svg</image>
       </translation>
       <translation id="2">
         <text>bent hand in front of chest, palm facing back</text>
+        <image>img/kama.svg</image>
       </translation>
     </entry>
     <entry id="65">
       <translation id="0">
         <text>ken</text>
+        <image>img/ken.svg</image>
       </translation>
       <translation id="1">
         <text>can, many</text>
+        <image>img/ken.svg</image>
       </translation>
       <translation id="2">
         <text>thumb-fist at left shoulder, palm facing back</text>
+        <image>img/ken.svg</image>
       </translation>
     </entry>
     <entry id="66">
@@ -775,36 +841,36 @@
       </translation>
     </entry>
     <entry id="68">
-      <translation id="0">
-        <text>kama</text>
-      </translation>
-      <translation id="1">
-        <text>arriving, coming</text>
-      </translation>
-      <translation id="2">
-        <text>bent hand in front of chest, palm facing back</text>
-      </translation>
+      <translation id="0"/>
+      <translation id="1"/>
+      <translation id="2"/>
     </entry>
     <entry id="69">
       <translation id="0">
         <text>jelo</text>
+        <image>img/jelo.svg</image>
       </translation>
       <translation id="1">
         <text>yellow</text>
+        <image>img/jelo.svg</image>
       </translation>
       <translation id="2">
         <text>F hand on stomach, palm facing down</text>
+        <image>img/jelo.svg</image>
       </translation>
     </entry>
     <entry id="70">
       <translation id="0">
         <text>laso</text>
+        <image>img/laso.svg</image>
       </translation>
       <translation id="1">
         <text>blue, green</text>
+        <image>img/laso.svg</image>
       </translation>
       <translation id="2">
         <text>F hand at left elbow, palm facing down</text>
+        <image>img/laso.svg</image>
       </translation>
     </entry>
     <entry id="71">
@@ -843,23 +909,29 @@
     <entry id="74">
       <translation id="0">
         <text>la</text>
+        <image>img/la.svg</image>
       </translation>
       <translation id="1">
         <text>particle that seperates context from main sentence</text>
+        <image>img/la.svg</image>
       </translation>
       <translation id="2">
         <text>bent hand in front of chest, palm facing left</text>
+        <image>img/la.svg</image>
       </translation>
     </entry>
     <entry id="75">
       <translation id="0">
         <text>insa</text>
+        <image>img/insa.svg</image>
       </translation>
       <translation id="1">
         <text>inside, between, internal organ</text>
+        <image>img/insa.svg</image>
       </translation>
       <translation id="2">
         <text>L hand on stomach, palm facing back</text>
+        <image>img/insa.svg</image>
       </translation>
     </entry>
     <entry id="76">
@@ -909,34 +981,43 @@
     <entry id="80">
       <translation id="0">
         <text>anpa</text>
+        <image>img/anpa.svg</image>
       </translation>
       <translation id="1">
         <text>lowy, bowing down</text>
+        <image>img/anpa.svg</image>
       </translation>
       <translation id="2">
         <text>bent hand in front of chest, palm facing down</text>
+        <image>img/anpa.svg</image>
       </translation>
     </entry>
     <entry id="81">
       <translation id="0">
         <text>ante</text>
+        <image>img/ante.svg</image>
       </translation>
       <translation id="1">
         <text>different</text>
+        <image>img/ante.svg</image>
       </translation>
       <translation id="2">
         <text>bent hand on top of left fist, palm facing left</text>
+        <image>img/ante.svg</image>
       </translation>
     </entry>
     <entry id="82">
       <translation id="0">
         <text>en</text>
+        <image>img/en.svg</image>
       </translation>
       <translation id="1">
         <text>and</text>
+        <image>img/en.svg</image>
       </translation>
       <translation id="2">
         <text>L hand on top of left fist, palm facing down</text>
+        <image>img/en.svg</image>
       </translation>
     </entry>
     <entry id="83">
@@ -1008,23 +1089,29 @@
     <entry id="89">
       <translation id="0">
         <text>esun</text>
+        <image>img/esun.svg</image>
       </translation>
       <translation id="1">
         <text>market, shop, fair, bazaar, buisiness transaction</text>
+        <image>img/esun.svg</image>
       </translation>
       <translation id="2">
         <text>bent hand in front of chest, palm facing up (both hands)</text>
+        <image>img/esun.svg</image>
       </translation>
     </entry>
     <entry id="90">
       <translation id="0">
         <text>alasa</text>
+        <image>img/alasa.svg</image>
       </translation>
       <translation id="1">
         <text>hunt, forage</text>
+        <image>img/alasa.svg</image>
       </translation>
       <translation id="2">
         <text>1 hand at left shoulder, palm facing back</text>
+        <image>img/alasa.svg</image>
       </translation>
     </entry>
     <entry id="91">
@@ -1118,12 +1205,15 @@
     <entry id="99">
       <translation id="0">
         <text>lape</text>
+        <image>img/lape.svg</image>
       </translation>
       <translation id="1">
         <text>to sleep</text>
+        <image>img/lape.svg</image>
       </translation>
       <translation id="2">
         <text>flat hand at side of forehead, palm facing left</text>
+        <image>img/lape.svg</image>
       </translation>
     </entry>
     <entry id="100">
@@ -1195,45 +1285,57 @@
     <entry id="106">
       <translation id="0">
         <text>kiwen</text>
+        <image>img/kiwen.svg</image>
       </translation>
       <translation id="1">
         <text>hard object, metal, rock, stone</text>
+        <image>img/kiwen.svg</image>
       </translation>
       <translation id="2">
         <text>thumb-fist on top of left fist, palm facing down</text>
+        <image>img/kiwen.svg</image>
       </translation>
     </entry>
     <entry id="107">
       <translation id="0">
         <text>ko</text>
+        <image>img/ko.svg</image>
       </translation>
       <translation id="1">
         <text>clay, clinging form, dough, semi-solid, paste, powder</text>
+        <image>img/ko.svg</image>
       </translation>
       <translation id="2">
         <text>bent hand on stomach, palm facing down</text>
+        <image>img/ko.svg</image>
       </translation>
     </entry>
     <entry id="108">
       <translation id="0">
         <text>kon</text>
+        <image>img/kon.svg</image>
       </translation>
       <translation id="1">
         <text>air, breath; essence, spirit; hidden reality, unseen agent</text>
+        <image>img/kon.svg</image>
       </translation>
       <translation id="2">
         <text>wiggling hand in front of chest, palm facing left</text>
+        <image>img/kon.svg</image>
       </translation>
     </entry>
     <entry id="109">
       <translation id="0">
         <text>kule</text>
+        <image>img/kule.svg</image>
       </translation>
       <translation id="1">
         <text>colourful, pigmented, painted</text>
+        <image>img/kule.svg</image>
       </translation>
       <translation id="2">
         <text>F hand in front of chest, palm facing left</text>
+        <image>img/kule.svg</image>
       </translation>
     </entry>
     <entry id="110">
@@ -1243,7 +1345,7 @@
       </translation>
       <translation id="1">
         <text>particle between any subject except mi alone or sina alone and its verb; also to introduce a new verb for the same subject</text>
-        <image>li.svg</image>
+        <image>img/li.svg</image>
       </translation>
       <translation id="2">
         <text>flat hand in front of chest, palm facing left</text>
@@ -1623,7 +1725,6 @@
   <lessons>
     <container>
       <name>Lesson 2: Words and Sentences</name>
-      <inpractice>true</inpractice>
       <entry id="0"/>
       <entry id="1"/>
       <entry id="2"/>
@@ -1634,7 +1735,6 @@
     </container>
     <container>
       <name>Lesson 3: Nouns and Adjectives</name>
-      <inpractice>true</inpractice>
       <entry id="7"/>
       <entry id="8"/>
       <entry id="9"/>
@@ -1643,7 +1743,6 @@
     </container>
     <container>
       <name>Lesson 4: You and I</name>
-      <inpractice>true</inpractice>
       <entry id="12"/>
       <entry id="13"/>
       <entry id="14"/>
@@ -1653,7 +1752,6 @@
     </container>
     <container>
       <name>Lesson 5: Verbs</name>
-      <inpractice>true</inpractice>
       <entry id="18"/>
       <entry id="19"/>
       <entry id="20"/>
