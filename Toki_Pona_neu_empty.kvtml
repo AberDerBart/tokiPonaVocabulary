@@ -2,7 +2,7 @@
 <!DOCTYPE kvtml PUBLIC "kvtml2.dtd" "http://edu.kde.org/kvtml/kvtml2.dtd">
 <kvtml version="2.0">
   <information>
-    <generator>Parley 1.0.0</generator>
+    <generator>Parley</generator>
     <title>Toki_pona</title>
     <author>Sabine Emmy Eller, Jim Regan, Barbara Catena, Maddalena De Angelis</author>
     <contact>s.eller@voxhumanitatis.org</contact>
@@ -1971,10 +1971,30 @@
       </translation>
       <translation id="2"/>
     </entry>
+    <entry id="150">
+      <translation id="0">
+        <text>moli</text>
+        <image>img/moli.svg</image>
+      </translation>
+      <translation id="1">
+        <text>dead, dying</text>
+        <image>img/moli.svg</image>
+      </translation>
+      <translation id="2">
+        <text>L hand at side of forehead, palm facing back</text>
+        <image>img/moli.svg</image>
+      </translation>
+    </entry>
+    <entry id="151">
+      <translation id="0"/>
+      <translation id="1"/>
+      <translation id="2"/>
+    </entry>
   </entries>
   <lessons>
     <container>
       <name>Lesson 2: Words and Sentences</name>
+      <inpractice>true</inpractice>
       <entry id="0"/>
       <entry id="1"/>
       <entry id="2"/>
@@ -1986,6 +2006,7 @@
     </container>
     <container>
       <name>Lesson 3: Nouns and Adjectives</name>
+      <inpractice>true</inpractice>
       <entry id="8"/>
       <entry id="9"/>
       <entry id="10"/>
@@ -1994,6 +2015,7 @@
     </container>
     <container>
       <name>Lesson 4: You and I</name>
+      <inpractice>true</inpractice>
       <entry id="13"/>
       <entry id="14"/>
       <entry id="15"/>
@@ -2003,6 +2025,7 @@
     </container>
     <container>
       <name>Lesson 5: Verbs</name>
+      <inpractice>true</inpractice>
       <entry id="19"/>
       <entry id="20"/>
       <entry id="21"/>
@@ -2014,6 +2037,7 @@
     </container>
     <container>
       <name>Lesson 6: More Adjectives</name>
+      <inpractice>true</inpractice>
       <entry id="27"/>
       <entry id="28"/>
       <entry id="29"/>
@@ -2025,6 +2049,7 @@
     </container>
     <container>
       <name>Lesson 7: Questions and Answers</name>
+      <inpractice>true</inpractice>
       <entry id="35"/>
       <entry id="36"/>
       <entry id="37"/>
@@ -2033,6 +2058,7 @@
     </container>
     <container>
       <name>Lesson 8: Prepositions</name>
+      <inpractice>true</inpractice>
       <entry id="40"/>
       <entry id="41"/>
       <entry id="42"/>
@@ -2041,6 +2067,7 @@
     </container>
     <container>
       <name>Lesson 9: Proper Names</name>
+      <inpractice>true</inpractice>
       <entry id="45"/>
       <entry id="46"/>
       <entry id="47"/>
@@ -2049,6 +2076,7 @@
     </container>
     <container>
       <name>Lesson 10: Greetings and Feelings</name>
+      <inpractice>true</inpractice>
       <entry id="50"/>
       <entry id="51"/>
       <entry id="52"/>
@@ -2056,6 +2084,7 @@
     </container>
     <container>
       <name>Lesson 11: pi</name>
+      <inpractice>true</inpractice>
       <entry id="54"/>
       <entry id="55"/>
       <entry id="56"/>
@@ -2065,6 +2094,7 @@
     </container>
     <container>
       <name>Lesson 12: Numbers</name>
+      <inpractice>true</inpractice>
       <entry id="60"/>
       <entry id="61"/>
       <entry id="62"/>
@@ -2073,6 +2103,7 @@
     </container>
     <container>
       <name>Lesson 13: Pre-Verbs</name>
+      <inpractice>true</inpractice>
       <entry id="65"/>
       <entry id="66"/>
       <entry id="67"/>
@@ -2080,6 +2111,7 @@
     </container>
     <container>
       <name>Lesson 14: Colours and la</name>
+      <inpractice>true</inpractice>
       <entry id="69"/>
       <entry id="70"/>
       <entry id="71"/>
@@ -2089,6 +2121,7 @@
     </container>
     <container>
       <name>Lesson 15: Spatial Nouns</name>
+      <inpractice>true</inpractice>
       <entry id="75"/>
       <entry id="76"/>
       <entry id="77"/>
@@ -2097,6 +2130,7 @@
     </container>
     <container>
       <name>Lesson 16: Particles and Perspective</name>
+      <inpractice>true</inpractice>
       <entry id="80"/>
       <entry id="81"/>
       <entry id="82"/>
@@ -2110,6 +2144,7 @@
     </container>
     <container>
       <name>Lesson 17: Hunting Adventure</name>
+      <inpractice>true</inpractice>
       <entry id="90"/>
       <entry id="91"/>
       <entry id="92"/>
@@ -2122,6 +2157,7 @@
     </container>
     <container>
       <name>Lesson 18: Cooking Adventure</name>
+      <inpractice>true</inpractice>
       <entry id="99"/>
       <entry id="100"/>
       <entry id="101"/>
@@ -2131,7 +2167,8 @@
       <entry id="105"/>
     </container>
     <container>
-      <name>Lesson with all the words I forgot</name>
+      <name>Lesson with nearly all the words I forgot</name>
+      <inpractice>true</inpractice>
       <entry id="106"/>
       <entry id="107"/>
       <entry id="108"/>
@@ -2149,6 +2186,7 @@
     </container>
     <container>
       <name>Signing the alphabet</name>
+      <inpractice>true</inpractice>
       <entry id="120"/>
       <entry id="121"/>
       <entry id="122"/>
@@ -2164,6 +2202,7 @@
     </container>
     <container>
       <name>Phrases</name>
+      <inpractice>true</inpractice>
       <entry id="132"/>
       <entry id="133"/>
       <entry id="134"/>
@@ -2182,6 +2221,12 @@
       <entry id="147"/>
       <entry id="148"/>
       <entry id="149"/>
+    </container>
+    <container>
+      <name>Lesson with the last forgotten word</name>
+      <inpractice>true</inpractice>
+      <entry id="150"/>
+      <entry id="151"/>
     </container>
   </lessons>
 </kvtml>
