@@ -984,11 +984,6 @@
       </translation>
     </entry>
     <entry id="69">
-      <translation id="0"/>
-      <translation id="1"/>
-      <translation id="2"/>
-    </entry>
-    <entry id="70">
       <translation id="0">
         <text>jelo</text>
         <image>img/jelo.svg</image>
@@ -1002,7 +997,7 @@
         <image>img/jelo.svg</image>
       </translation>
     </entry>
-    <entry id="71">
+    <entry id="70">
       <translation id="0">
         <text>laso</text>
         <image>img/laso.svg</image>
@@ -1016,7 +1011,7 @@
         <image>img/laso.svg</image>
       </translation>
     </entry>
-    <entry id="72">
+    <entry id="71">
       <translation id="0">
         <text>loje</text>
         <image>img/loje.svg</image>
@@ -1030,7 +1025,7 @@
         <image>img/loje.svg</image>
       </translation>
     </entry>
-    <entry id="73">
+    <entry id="72">
       <translation id="0">
         <text>pimeja</text>
         <image>img/pimeja.svg</image>
@@ -1044,7 +1039,7 @@
         <image>img/pimeja.svg</image>
       </translation>
     </entry>
-    <entry id="74">
+    <entry id="73">
       <translation id="0">
         <text>walo</text>
         <image>img/walo.svg</image>
@@ -1058,7 +1053,7 @@
         <image>img/walo.svg</image>
       </translation>
     </entry>
-    <entry id="75">
+    <entry id="74">
       <translation id="0">
         <text>la</text>
         <image>img/la.svg</image>
@@ -1072,7 +1067,7 @@
         <image>img/la.svg</image>
       </translation>
     </entry>
-    <entry id="76">
+    <entry id="75">
       <translation id="0">
         <text>insa</text>
         <image>img/insa.svg</image>
@@ -1086,7 +1081,7 @@
         <image>img/insa.svg</image>
       </translation>
     </entry>
-    <entry id="77">
+    <entry id="76">
       <translation id="0">
         <text>monsi</text>
         <image>img/monsi.svg</image>
@@ -1100,7 +1095,7 @@
         <image>img/monsi.svg</image>
       </translation>
     </entry>
-    <entry id="78">
+    <entry id="77">
       <translation id="0">
         <text>noka</text>
         <image>img/noka.svg</image>
@@ -1114,7 +1109,7 @@
         <image>img/noka.svg</image>
       </translation>
     </entry>
-    <entry id="79">
+    <entry id="78">
       <translation id="0">
         <text>poka</text>
         <image>img/poka.svg</image>
@@ -1128,7 +1123,7 @@
         <image>img/poka.svg</image>
       </translation>
     </entry>
-    <entry id="80">
+    <entry id="79">
       <translation id="0">
         <text>sinpin</text>
         <image>img/sinpin.svg</image>
@@ -1142,7 +1137,7 @@
         <image>img/sinpin.svg</image>
       </translation>
     </entry>
-    <entry id="81">
+    <entry id="80">
       <translation id="0">
         <text>anpa</text>
         <image>img/anpa.svg</image>
@@ -1156,7 +1151,7 @@
         <image>img/anpa.svg</image>
       </translation>
     </entry>
-    <entry id="82">
+    <entry id="81">
       <translation id="0">
         <text>ante</text>
         <image>img/ante.svg</image>
@@ -1170,7 +1165,7 @@
         <image>img/ante.svg</image>
       </translation>
     </entry>
-    <entry id="83">
+    <entry id="82">
       <translation id="0">
         <text>en</text>
         <image>img/en.svg</image>
@@ -1184,7 +1179,7 @@
         <image>img/en.svg</image>
       </translation>
     </entry>
-    <entry id="84">
+    <entry id="83">
       <translation id="0">
         <text>lete</text>
         <image>img/lete.svg</image>
@@ -1198,7 +1193,7 @@
         <image>img/lete.svg</image>
       </translation>
     </entry>
-    <entry id="85">
+    <entry id="84">
       <translation id="0">
         <text>lupa</text>
         <image>img/lupa.svg</image>
@@ -1212,10 +1207,10 @@
         <image>img/lupa.svg</image>
       </translation>
     </entry>
-    <entry id="86">
+    <entry id="85">
       <translation id="0">
         <text>open</text>
-        <image>img/olin.svg</image>
+        <image>img/open.svg</image>
       </translation>
       <translation id="1">
         <text>open</text>
@@ -1223,10 +1218,10 @@
       </translation>
       <translation id="2">
         <text>0 hand at left shoulder, palm facing down</text>
-        <image>img/olin.svg</image>
+        <image>img/open.svg</image>
       </translation>
     </entry>
-    <entry id="87">
+    <entry id="86">
       <translation id="0">
         <text>sama</text>
         <image>img/sama.svg</image>
@@ -1240,7 +1235,7 @@
         <image>img/sama.svg</image>
       </translation>
     </entry>
-    <entry id="88">
+    <entry id="87">
       <translation id="0">
         <text>suwi</text>
         <image>img/suwi.svg</image>
@@ -1254,7 +1249,7 @@
         <image>img/suwi.svg</image>
       </translation>
     </entry>
-    <entry id="89">
+    <entry id="88">
       <translation id="0">
         <text>taso</text>
         <image>img/taso.svg</image>
@@ -1268,7 +1263,7 @@
         <image>img/taso.svg</image>
       </translation>
     </entry>
-    <entry id="90">
+    <entry id="89">
       <translation id="0">
         <text>esun</text>
         <image>img/esun.svg</image>
@@ -1282,7 +1277,7 @@
         <image>img/esun.svg</image>
       </translation>
     </entry>
-    <entry id="91">
+    <entry id="90">
       <translation id="0">
         <text>alasa</text>
         <image>img/alasa.svg</image>
@@ -1296,7 +1291,7 @@
         <image>img/alasa.svg</image>
       </translation>
     </entry>
-    <entry id="92">
+    <entry id="91">
       <translation id="0">
         <text>lawa</text>
         <image>img/lawa.svg</image>
@@ -1310,7 +1305,7 @@
         <image>img/lawa.svg</image>
       </translation>
     </entry>
-    <entry id="93">
+    <entry id="92">
       <translation id="0">
         <text>len</text>
         <image>img/len.svg</image>
@@ -1324,7 +1319,7 @@
         <image>img/len.svg</image>
       </translation>
     </entry>
-    <entry id="94">
+    <entry id="93">
       <translation id="0">
         <text>linja</text>
         <image>img/linja.svg</image>
@@ -1338,10 +1333,10 @@
         <image>img/linja.svg</image>
       </translation>
     </entry>
-    <entry id="95">
+    <entry id="94">
       <translation id="0">
         <text>pakala</text>
-        <image>img/open.svg</image>
+        <image>img/pakala.svg</image>
       </translation>
       <translation id="1">
         <text>broken</text>
@@ -1349,10 +1344,10 @@
       </translation>
       <translation id="2">
         <text>thumb-fist on top of left fist, palm facing forward</text>
-        <image>img/open.svg</image>
+        <image>img/pakala.svg</image>
       </translation>
     </entry>
-    <entry id="96">
+    <entry id="95">
       <translation id="0">
         <text>palisa</text>
         <image>img/palisa.svg</image>
@@ -1366,7 +1361,7 @@
         <image>img/palisa.svg</image>
       </translation>
     </entry>
-    <entry id="97">
+    <entry id="96">
       <translation id="0">
         <text>pipi</text>
         <image>img/pipi.svg</image>
@@ -1380,7 +1375,7 @@
         <image>img/pipi.svg</image>
       </translation>
     </entry>
-    <entry id="98">
+    <entry id="97">
       <translation id="0">
         <text>waso</text>
         <image>img/waso.svg</image>
@@ -1394,7 +1389,7 @@
         <image>img/waso.svg</image>
       </translation>
     </entry>
-    <entry id="99">
+    <entry id="98">
       <translation id="0">
         <text>weka</text>
         <image>img/weka.svg</image>
@@ -1408,7 +1403,7 @@
         <image>img/weka.svg</image>
       </translation>
     </entry>
-    <entry id="100">
+    <entry id="99">
       <translation id="0">
         <text>lape</text>
         <image>img/lape.svg</image>
@@ -1422,7 +1417,7 @@
         <image>img/lape.svg</image>
       </translation>
     </entry>
-    <entry id="101">
+    <entry id="100">
       <translation id="0">
         <text>olin</text>
         <image>img/olin.svg</image>
@@ -1436,7 +1431,7 @@
         <image>img/olin.svg</image>
       </translation>
     </entry>
-    <entry id="102">
+    <entry id="101">
       <translation id="0">
         <text>pan</text>
         <image>img/pan.svg</image>
@@ -1450,7 +1445,7 @@
         <image>img/pan.svg</image>
       </translation>
     </entry>
-    <entry id="103">
+    <entry id="102">
       <translation id="0">
         <text>pini</text>
         <image>img/pini.svg</image>
@@ -1464,7 +1459,7 @@
         <image>img/pini.svg</image>
       </translation>
     </entry>
-    <entry id="104">
+    <entry id="103">
       <translation id="0">
         <text>seli</text>
         <image>img/seli.svg</image>
@@ -1478,7 +1473,7 @@
         <image>img/seli.svg</image>
       </translation>
     </entry>
-    <entry id="105">
+    <entry id="104">
       <translation id="0">
         <text>supa</text>
         <image>img/supa.svg</image>
@@ -1492,7 +1487,7 @@
         <image>img/supa.svg</image>
       </translation>
     </entry>
-    <entry id="106">
+    <entry id="105">
       <translation id="0">
         <text>uta</text>
         <image>img/uta.svg</image>
@@ -1506,7 +1501,7 @@
         <image>img/uta.svg</image>
       </translation>
     </entry>
-    <entry id="107">
+    <entry id="106">
       <translation id="0">
         <text>kiwen</text>
         <image>img/kiwen.svg</image>
@@ -1520,7 +1515,7 @@
         <image>img/kiwen.svg</image>
       </translation>
     </entry>
-    <entry id="108">
+    <entry id="107">
       <translation id="0">
         <text>ko</text>
         <image>img/ko.svg</image>
@@ -1534,7 +1529,7 @@
         <image>img/ko.svg</image>
       </translation>
     </entry>
-    <entry id="109">
+    <entry id="108">
       <translation id="0">
         <text>kon</text>
         <image>img/kon.svg</image>
@@ -1548,7 +1543,7 @@
         <image>img/kon.svg</image>
       </translation>
     </entry>
-    <entry id="110">
+    <entry id="109">
       <translation id="0">
         <text>kule</text>
         <image>img/kule.svg</image>
@@ -1562,7 +1557,7 @@
         <image>img/kule.svg</image>
       </translation>
     </entry>
-    <entry id="111">
+    <entry id="110">
       <translation id="0">
         <text>li</text>
         <image>img/li.svg</image>
@@ -1576,7 +1571,7 @@
         <image>li.svg</image>
       </translation>
     </entry>
-    <entry id="112">
+    <entry id="111">
       <translation id="0">
         <text>mani</text>
         <image>img/mani.svg</image>
@@ -1590,7 +1585,7 @@
         <image>img/mani.svg</image>
       </translation>
     </entry>
-    <entry id="113">
+    <entry id="112">
       <translation id="0">
         <text>mun</text>
         <image>img/mun.svg</image>
@@ -1604,7 +1599,7 @@
         <image>img/mun.svg</image>
       </translation>
     </entry>
-    <entry id="114">
+    <entry id="113">
       <translation id="0">
         <text>musi</text>
         <image>img/musi.svg</image>
@@ -1618,7 +1613,7 @@
         <image>img/musi.svg</image>
       </translation>
     </entry>
-    <entry id="115">
+    <entry id="114">
       <translation id="0">
         <text>nasa</text>
         <image>img/nasa.svg</image>
@@ -1632,7 +1627,7 @@
         <image>img/nasa.svg</image>
       </translation>
     </entry>
-    <entry id="116">
+    <entry id="115">
       <translation id="0">
         <text>poki</text>
         <image>img/poki.svg</image>
@@ -1646,21 +1641,21 @@
         <image>img/poki.svg</image>
       </translation>
     </entry>
-    <entry id="117">
+    <entry id="116">
       <translation id="0">
         <text>selo</text>
-        <image>img/seli.svg</image>
+        <image>img/selo.svg</image>
       </translation>
       <translation id="1">
         <text>outer form, outer layer; bark, peel, shell, skin; boundary</text>
-        <image>img/seli.svg</image>
+        <image>img/selo.svg</image>
       </translation>
       <translation id="2">
         <text>F hand at left elbow, palm facing back</text>
-        <image>img/seli.svg</image>
+        <image>img/selo.svg</image>
       </translation>
     </entry>
-    <entry id="118">
+    <entry id="117">
       <translation id="0">
         <text>sike</text>
         <image>img/sike.svg</image>
@@ -1674,7 +1669,7 @@
         <image>img/sike.svg</image>
       </translation>
     </entry>
-    <entry id="119">
+    <entry id="118">
       <translation id="0">
         <text>sitelen</text>
         <image>img/sitelen.svg</image>
@@ -1688,7 +1683,7 @@
         <image>img/sitelen.svg</image>
       </translation>
     </entry>
-    <entry id="120">
+    <entry id="119">
       <translation id="0">
         <text>unpa</text>
         <image>img/unpa.svg</image>
@@ -1702,7 +1697,7 @@
         <image>img/unpa.svg</image>
       </translation>
     </entry>
-    <entry id="121">
+    <entry id="120">
       <translation id="0">
         <text>a</text>
       </translation>
@@ -1711,7 +1706,7 @@
         <text>thumb-fist under left slanted forearm, palm facing back</text>
       </translation>
     </entry>
-    <entry id="122">
+    <entry id="121">
       <translation id="0">
         <text>e</text>
       </translation>
@@ -1720,7 +1715,7 @@
         <text>flat hand under left slanted forearm, palm facing back</text>
       </translation>
     </entry>
-    <entry id="123">
+    <entry id="122">
       <translation id="0">
         <text>i, j</text>
       </translation>
@@ -1729,7 +1724,7 @@
         <text>1 hand under left slanted forearm, palm facing down</text>
       </translation>
     </entry>
-    <entry id="124">
+    <entry id="123">
       <translation id="0">
         <text>k</text>
       </translation>
@@ -1738,7 +1733,7 @@
         <text>bent hand under left slanted forearm, palm facing down</text>
       </translation>
     </entry>
-    <entry id="125">
+    <entry id="124">
       <translation id="0">
         <text>l</text>
       </translation>
@@ -1747,7 +1742,7 @@
         <text>L hand under left slanted forearm, palm facing back</text>
       </translation>
     </entry>
-    <entry id="126">
+    <entry id="125">
       <translation id="0">
         <text>m</text>
       </translation>
@@ -1756,7 +1751,7 @@
         <text>wiggling hand under left slanted forearm, palm facing back</text>
       </translation>
     </entry>
-    <entry id="127">
+    <entry id="126">
       <translation id="0">
         <text>n</text>
       </translation>
@@ -1765,7 +1760,7 @@
         <text>wiggling hand under left slanted forearm, palm facing down</text>
       </translation>
     </entry>
-    <entry id="128">
+    <entry id="127">
       <translation id="0">
         <text>o</text>
       </translation>
@@ -1774,7 +1769,7 @@
         <text>0 hand under left slanted forearm, palm facing down</text>
       </translation>
     </entry>
-    <entry id="129">
+    <entry id="128">
       <translation id="0">
         <text>p</text>
       </translation>
@@ -1783,7 +1778,7 @@
         <text>F hand under left slanted forearm, palm facing down</text>
       </translation>
     </entry>
-    <entry id="130">
+    <entry id="129">
       <translation id="0">
         <text>s</text>
       </translation>
@@ -1792,7 +1787,7 @@
         <text>thumb-fist under left slanted forearm, palm facing down</text>
       </translation>
     </entry>
-    <entry id="131">
+    <entry id="130">
       <translation id="0">
         <text>t</text>
       </translation>
@@ -1801,7 +1796,7 @@
         <text>flat hand under left slanted forearm, palm facing down</text>
       </translation>
     </entry>
-    <entry id="132">
+    <entry id="131">
       <translation id="0">
         <text>u, w</text>
       </translation>
@@ -1810,7 +1805,7 @@
         <text>2 hand under left slanted forearm, palm facing back</text>
       </translation>
     </entry>
-    <entry id="133">
+    <entry id="132">
       <translation id="0">
         <text>toki</text>
       </translation>
@@ -1819,7 +1814,7 @@
       </translation>
       <translation id="2"/>
     </entry>
-    <entry id="134">
+    <entry id="133">
       <translation id="0">
         <text>pona</text>
         <image>img/pona.svg</image>
@@ -1832,7 +1827,7 @@
         <image>img/pona.svg</image>
       </translation>
     </entry>
-    <entry id="135">
+    <entry id="134">
       <translation id="0">
         <text>pona tawa sina</text>
       </translation>
@@ -1841,7 +1836,7 @@
       </translation>
       <translation id="2"/>
     </entry>
-    <entry id="136">
+    <entry id="135">
       <translation id="0">
         <text>mi tawa</text>
       </translation>
@@ -1850,7 +1845,7 @@
       </translation>
       <translation id="2"/>
     </entry>
-    <entry id="137">
+    <entry id="136">
       <translation id="0">
         <text>tawa pona</text>
       </translation>
@@ -1859,7 +1854,7 @@
       </translation>
       <translation id="2"/>
     </entry>
-    <entry id="138">
+    <entry id="137">
       <translation id="0">
         <text>mi wile (e ni)</text>
       </translation>
@@ -1868,7 +1863,7 @@
       </translation>
       <translation id="2"/>
     </entry>
-    <entry id="139">
+    <entry id="138">
       <translation id="0">
         <text>ale li pona</text>
       </translation>
@@ -1877,7 +1872,7 @@
       </translation>
       <translation id="2"/>
     </entry>
-    <entry id="140">
+    <entry id="139">
       <translation id="0">
         <text>ike a</text>
       </translation>
@@ -1886,7 +1881,7 @@
       </translation>
       <translation id="2"/>
     </entry>
-    <entry id="141">
+    <entry id="140">
       <translation id="0">
         <text>lape pona</text>
       </translation>
@@ -1895,7 +1890,7 @@
       </translation>
       <translation id="2"/>
     </entry>
-    <entry id="142">
+    <entry id="141">
       <translation id="0">
         <text>kama pona</text>
       </translation>
@@ -1904,7 +1899,7 @@
       </translation>
       <translation id="2"/>
     </entry>
-    <entry id="143">
+    <entry id="142">
       <translation id="0">
         <text>moku pona</text>
       </translation>
@@ -1913,7 +1908,7 @@
       </translation>
       <translation id="2"/>
     </entry>
-    <entry id="144">
+    <entry id="143">
       <translation id="0">
         <text>seme li sin?</text>
       </translation>
@@ -1922,7 +1917,7 @@
       </translation>
       <translation id="2"/>
     </entry>
-    <entry id="145">
+    <entry id="144">
       <translation id="0">
         <text>sina pilin seme?</text>
       </translation>
@@ -1931,7 +1926,7 @@
       </translation>
       <translation id="2"/>
     </entry>
-    <entry id="146">
+    <entry id="145">
       <translation id="0">
         <text>a a a!</text>
       </translation>
@@ -1940,7 +1935,7 @@
       </translation>
       <translation id="2"/>
     </entry>
-    <entry id="147">
+    <entry id="146">
       <translation id="0">
         <text>mi kama sona e toki pona</text>
       </translation>
@@ -1949,7 +1944,7 @@
       </translation>
       <translation id="2"/>
     </entry>
-    <entry id="148">
+    <entry id="147">
       <translation id="0">
         <text>sina pona</text>
       </translation>
@@ -1958,7 +1953,7 @@
       </translation>
       <translation id="2"/>
     </entry>
-    <entry id="149">
+    <entry id="148">
       <translation id="0">
         <text>mi olin e sina</text>
       </translation>
@@ -1967,7 +1962,7 @@
       </translation>
       <translation id="2"/>
     </entry>
-    <entry id="150">
+    <entry id="149">
       <translation id="0">
         <text>tomo telo li lon seme?</text>
       </translation>
@@ -2082,27 +2077,27 @@
       <entry id="66"/>
       <entry id="67"/>
       <entry id="68"/>
-      <entry id="69"/>
     </container>
     <container>
       <name>Lesson 14: Colours and la</name>
+      <entry id="69"/>
       <entry id="70"/>
       <entry id="71"/>
       <entry id="72"/>
       <entry id="73"/>
       <entry id="74"/>
-      <entry id="75"/>
     </container>
     <container>
       <name>Lesson 15: Spatial Nouns</name>
+      <entry id="75"/>
       <entry id="76"/>
       <entry id="77"/>
       <entry id="78"/>
       <entry id="79"/>
-      <entry id="80"/>
     </container>
     <container>
       <name>Lesson 16: Particles and Perspective</name>
+      <entry id="80"/>
       <entry id="81"/>
       <entry id="82"/>
       <entry id="83"/>
@@ -2112,10 +2107,10 @@
       <entry id="87"/>
       <entry id="88"/>
       <entry id="89"/>
-      <entry id="90"/>
     </container>
     <container>
       <name>Lesson 17: Hunting Adventure</name>
+      <entry id="90"/>
       <entry id="91"/>
       <entry id="92"/>
       <entry id="93"/>
@@ -2124,20 +2119,20 @@
       <entry id="96"/>
       <entry id="97"/>
       <entry id="98"/>
-      <entry id="99"/>
     </container>
     <container>
       <name>Lesson 18: Cooking Adventure</name>
+      <entry id="99"/>
       <entry id="100"/>
       <entry id="101"/>
       <entry id="102"/>
       <entry id="103"/>
       <entry id="104"/>
       <entry id="105"/>
-      <entry id="106"/>
     </container>
     <container>
       <name>Lesson with all the words I forgot</name>
+      <entry id="106"/>
       <entry id="107"/>
       <entry id="108"/>
       <entry id="109"/>
@@ -2151,10 +2146,10 @@
       <entry id="117"/>
       <entry id="118"/>
       <entry id="119"/>
-      <entry id="120"/>
     </container>
     <container>
       <name>Signing the alphabet</name>
+      <entry id="120"/>
       <entry id="121"/>
       <entry id="122"/>
       <entry id="123"/>
@@ -2166,10 +2161,10 @@
       <entry id="129"/>
       <entry id="130"/>
       <entry id="131"/>
-      <entry id="132"/>
     </container>
     <container>
       <name>Phrases</name>
+      <entry id="132"/>
       <entry id="133"/>
       <entry id="134"/>
       <entry id="135"/>
@@ -2187,7 +2182,6 @@
       <entry id="147"/>
       <entry id="148"/>
       <entry id="149"/>
-      <entry id="150"/>
     </container>
   </lessons>
 </kvtml>
